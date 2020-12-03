@@ -1,0 +1,29 @@
+#title, .subtitle, .post_title{
+    color: #505050;
+}
+
+.subtitle{
+    font-size: 20px;
+    font-style: bold;
+}
+
+body{
+    background: #f7f7f7;
+    max-width: 900px;
+}
+
+.post{
+    background: rgb(240, 240, 240);
+    padding: 10px;
+    border: 3px solid black;
+    margin: 10px;
+}
+
+.photo{
+    border-radius: 50%;
+    border: 3px solid #505050;
+}
+
+.post_image{
+    width: 100%;
+}
